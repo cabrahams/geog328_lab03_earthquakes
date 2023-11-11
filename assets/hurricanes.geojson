@@ -1,0 +1,19 @@
+{
+"type":"FeatureCollection",
+"features":[
+{"type":"Feature","properties":{"id":"hurricane_001","name":"Iota","category":4,"highest_wind_speed": 155}, "geometry":{"type":"Point","coordinates":[-83.4,13.2]}},
+{"type":"Feature","properties":{"id":"hurricane_002","name":"Dorian","category":5,"highest_wind_speed": 185},"geometry":{"type":"Point","coordinates":[-78.3,26.7]}},
+{"type":"Feature","properties":{"id":"hurricane_003","name":"Wilma","category":5,"highest_wind_speed": 185},"geometry":{"type":"Point","coordinates":[-85.1,27.5]}},
+{"type":"Feature","properties":{"id":"hurricane_004","name":"Teddy","category":4,"highest_wind_speed": 140},"geometry":{"type":"Point","coordinates":[-63.5,39.3]}},
+{"type":"Feature","properties":{"id":"hurricane_005","name":"Epsilon","category":3,"highest_wind_speed": 115},"geometry":{"type":"Point","coordinates":[-56.8,26.5]}},
+{"type":"Feature","properties":{"id":"hurricane_006","name":"Irma","category":5,"highest_wind_speed": 185},"geometry":{"type":"Point","coordinates":[-69,26.1]}},
+{"type":"Feature","properties":{"id":"hurricane_007","name":"Maria","category":5,"highest_wind_speed": 175},"geometry":{"type":"Point","coordinates":[-65.6,17.9]}},
+{"type":"Feature","properties":{"id":"hurricane_008","name":"Florence","category":1,"highest_wind_speed": 130},"geometry":{"type":"Point","coordinates":[-77.9,34.3]}},
+{"type":"Feature","properties":{"id":"hurricane_009","name":"Harvey","category":4,"highest_wind_speed": 130},"geometry":{"type":"Point","coordinates":[-97,28.2]}},
+{"type":"Feature","properties":{"id":"hurricane_010","name":"Matthew","category":5,"highest_wind_speed": 165},"geometry":{"type":"Point","coordinates":[-74.4,17.8]}},
+{"type":"Feature","properties":{"id":"hurricane_011","name":"Michael","category":5,"highest_wind_speed": 160},"geometry":{"type":"Point","coordinates":[-85.5,30]}},
+{"type":"Feature","properties":{"id":"hurricane_012","name":"Nicole","category":4,"highest_wind_speed": 140},"geometry":{"type":"Point","coordinates":[-64.9,27.2]}},
+{"type":"Feature","properties":{"id":"hurricane_013","name":"Rita","category":3,"highest_wind_speed": 180},"geometry":{"type":"Point","coordinates":[-93.6,27.5]}},
+{"type":"Feature","properties":{"id":"hurricane_014","name":"Delta","category":4,"highest_wind_speed": 140},"geometry":{"type":"Point","coordinates":[-84.1,18.9]}}
+]
+}
